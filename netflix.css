@@ -1,0 +1,154 @@
+.stylinglogo{
+    width: 180px;
+    height: 80px;
+    padding: 5px;
+
+}
+/*#gool{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border: 0px;
+}*/
+#go {
+    background-color:white;
+    color:black;
+    padding: 5px 15px;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+    margin: 10px;
+
+}
+#go:hover{
+    background-color:white;
+    color: blueviolet;
+    border: 0px;
+}
+.btn1{
+    margin-right: 30px;
+    margin-left: 15px;
+    box-sizing: border-box;
+    display: block;
+}
+.btn{
+    color: white;
+    width: 100px;
+    padding-inline: 10PX;
+    height: 60px;
+    padding-top: 10px;
+    font-size: 25px;
+}
+.ui-select{
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+.bgimg{
+    padding-top: 15px;
+    background-image: url("https://i.mydramalist.com/kqWNj_3m.jpg");
+    width: 1350px;
+    height: 900px;
+    background-size: cover;
+}
+.girl{
+    padding-bottom: 20px;
+    color: blue;
+    font-size: 70px;
+    margin-left: 20px;
+    text-align: center;
+}
+.season{
+    padding-top: 0px;
+    text-align: left;
+    font-size: 35px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    padding-left: 25px;
+    color: red;
+}
+.head3{
+    padding-top: 0px;
+    padding-left: 25px;
+    letter-spacing: 1.5px;
+    font-weight: normal;
+    font-size: 25px;
+    color: white;
+}
+.h3,h3{
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+    box-sizing:border-box;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.btn{
+    padding-bottom: 20px;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.head4{
+    padding-bottom: 20px;
+    padding-left: 15px;
+    letter-spacing: 2.5px;
+    font-weight: normal;
+    color:greenyellow;
+}
+h1{
+    display: block;
+    margin-inline-start: 2.33em;
+    margin-inline-end: 2.33em;
+}
+.head6{
+    padding-top: 15px;
+    padding-left: 25px;
+    letter-spacing: 1.5px;
+    font-weight: normal;
+    color: white;
+    padding-bottom: 20px;
+    font-size: 25px;
+}
+h5{
+    display: block;
+    margin-block-start: 1.67em;
+    margin-inline-end: 1.67em;
+}
+.streams{
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 5px;
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+button:not(:disabled){
+    cursor: pointer;
+}
+.seasons{
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left: 65px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 4px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-width: 0px;
+    margin-bottom: 5px;
+}
+.seasons:hover{
+    color: blue;
+}
